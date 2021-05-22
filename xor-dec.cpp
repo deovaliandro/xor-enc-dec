@@ -12,8 +12,8 @@ int main(int argc, char *argv[]){
     std::string key;
     int i = 0;
 
-    fin = fopen(argv[1], "rb");
-    fout = fopen(argv[2], "wb");
+    fin = fopen(argv[2], "rb");
+    fout = fopen(argv[1], "wb");
     
     if(fin == NULL || fout == NULL){
         std::cout << "File not found" << std::endl;
