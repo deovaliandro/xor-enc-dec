@@ -1,5 +1,5 @@
 /* 
-    xor-enc for encription
+    xor-enc for encryption
 */
 
 #include <iostream>

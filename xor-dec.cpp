@@ -1,5 +1,5 @@
 /*
-    xor-dec for decription
+    xor-dec for decryption
 */
 
 #include <iostream>
